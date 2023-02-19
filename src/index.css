@@ -1,0 +1,90 @@
+ @import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+
+body{
+  margin:0 auto ;
+  padding: 0;
+  max-width: 850px;
+  min-width: 350px;
+  background-color: #E5E5E5;
+ 
+}
+.myApp{
+  max-width: 550px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  border-radius: 12px 12px 0 0;
+}
+header{
+  height: auto;
+  position: relative;
+  background: #F55A5A !important;
+  top: 0;
+  width: 100%;
+  border-radius: 12px 12px 0 0;
+  background-color: #FFFFFF;
+  font-family: 'Mynerve', cursive;
+
+}
+header svg{
+  color: #FFFFFF;
+  padding: 3px;
+    position: relative;
+    top: 8px;
+    left: -6px;
+}
+.wrapperMain{
+  position: relative;
+
+  display: flex;
+  justify-content: space-between;
+  margin: 23px;
+  box-sizing: content-box;
+}
+img{
+  height: 168px;
+  width: 140px;
+left: 40px;
+top: 100px;
+border-radius: 5px;
+
+}
+a{
+  margin-left: 10px;
+  text-decoration: none;
+  color:#2B283A;
+}
+h3{
+  padding: 18px;
+  color : #FFFFFF;
+}
+.spanTo{
+  margin-left: 10px;
+ 
+}
+.googleMaps{
+  border-style: solid;
+  padding: 2px;
+  border-width: thin;
+  border-radius: 9px;
+  border-color: #F55A5A;
+}
+.googleMaps:hover{
+  color: #F55A5A;
+}
+.description{
+  font-family: Inter;
+  line-height: 1;
+font-size: 1em;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color:#2B283A;
+height: auto;
+width: 326px;
+border-radius: nullpx;
+}
+svg{
+  color: #F55A5A;
+}
